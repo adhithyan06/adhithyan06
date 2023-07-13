@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Adhithyan</h1>
+<h1 align="center">Hey! 👋🏾, I'm Adhithyan</h1>
 
 <h3 align="center">A Full Stack developer based in Kerala,India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhithyan06&label=Profile%20views&color=0e75b6&style=flat" alt="adhithyan06" /> </p>
 
-- 🌱 I’m currently learning **PHP(Programming Language)**
+- 🌱 I’m currently learning **C(Programming Language)**
 
 - 👨‍💻 All of my projects are available at [https://adhithyan06.github.io/](https://adhithyan06.github.io/)
 
